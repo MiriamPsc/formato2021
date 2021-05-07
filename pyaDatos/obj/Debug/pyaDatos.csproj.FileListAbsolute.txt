@@ -1,0 +1,12 @@
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\bin\Debug\pyaDatos.exe.config
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\bin\Debug\pyaDatos.exe
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\bin\Debug\pyaDatos.pdb
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.Form1.resources
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.Properties.Resources.resources
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.csproj.GenerateResource.cache
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.exe
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.pdb
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.Especialidad.resources
+C:\Users\miria\source\repos\pyaDatos\pyaDatos\obj\Debug\pyaDatos.Semestre.resources
